@@ -52,6 +52,12 @@
 </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushsrivastava729&show_icons=true&locale=en&layout=compact" alt="ayushsrivastava729" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsrivastava729&show_icons=true&locale=en" alt="ayushsrivastava729" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsrivastava729&" alt="ayushsrivastava729" /></p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 
 
